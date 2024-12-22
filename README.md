@@ -7,3 +7,5 @@ METHODOLOGICAL MANUAL FOR IMPLEMENTATION OF PRACTICAL WORKS ON COURSE DIGITAL PR
 1. Copy or clone the repository
 2. Make a virtual environment  - "python -m venv venv"
 3. Install the dependencies - "pip install -r requirements.txt"
+
+repository available by https://github.com/Ivankvl7/digital_signals_process
